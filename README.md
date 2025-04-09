@@ -3,6 +3,7 @@
 ## 👨‍🎓 Réalisé par : Mohamed BARBYCH  
 **Module** : Data Mining  
 **Encadrant** : Prof. Abdelhadi FENNAN  
+![image](https://github.com/user-attachments/assets/d27b00d8-c3a5-43eb-9294-b3f795dd1057)
 
 ---
 
